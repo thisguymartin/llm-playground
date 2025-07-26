@@ -7,4 +7,6 @@ requires-python = ">=3.13"
 dependencies = [
     "ipykernel>=6.30.0",
     "jupyterlab>=4.0.0",
+    "numpy>=2.3.2",
+    "requests>=2.32.4",
 ]
